@@ -11,7 +11,7 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    margin-top: 160px;
+    margin-top: 165px;
 }
 
 h1 {
@@ -28,7 +28,7 @@ p {
     color: hsla(0, 0%, 100%, 0.75);
     font-size: 15px;
     margin-left: 40px;
-    margin-top: 20px;
+    margin-top: 25px;
 
 }
 
